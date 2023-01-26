@@ -826,7 +826,7 @@ padding: 0 30px;
 display: flex;
 flex-direction: column;
 text-align: center;
-padding-block: 60px;
+padding-block: 50px;
 justify-content: space-around;
 }
 
@@ -857,6 +857,11 @@ padding-block: 100px;}
 }
 /******************CATALOG CSS****************************/
 
+
+.middlesection
+{
+  padding-block: 50px;
+}
 @media screen and (max-width: 767px)
 {#bestsellersectionpadding
 {
@@ -888,6 +893,10 @@ input[type=text1]{
 #textarea{
   width: 69.6%;
 margin-block: 10px;
+}
+.middelcontactsection 
+{
+ padding-block:50px;
 }
 @media screen and (max-width: 767px) {
   input[type=text1],#textarea{
